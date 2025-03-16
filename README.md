@@ -14,7 +14,7 @@ Topics Explored:
 - Modules/Packages
 
 ## Future
-I hope to expand this code as the backend for a web application. \
+I hope to expand this code as the backend for a web application. 
 
 ## PS
 I've read somewhere that **Go's mascot is a gopher because := looks like a gopher's eyes and teeth**. 
